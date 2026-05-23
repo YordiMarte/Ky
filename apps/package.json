@@ -1,8 +1,7 @@
 {
-	"name": "x402-evm-mcp-example",
+	"name": "ky",
 	"version": "0.1.0",
 	"private": true,
-	"packageManager": "pnpm@10.11.0",
 	"scripts": {
 		"dev": "next dev --turbopack",
 		"build": "next build --turbopack",
