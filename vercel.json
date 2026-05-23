@@ -1,0 +1,5 @@
+{
+  "buildCommand": "turbo run build --filter=x402-evm-mcp-example",
+  "outputDirectory": "apps/.next",
+  "installCommand": "pnpm install --frozen-lockfile"
+}
